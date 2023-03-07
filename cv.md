@@ -1,5 +1,5 @@
 # Curriculum Vitae (CV) 
-![My photo](img/photo.jpg)                                      
+![My photo](img/avatar.jpg)                                      
 ## Ermakov Evgeniy
 ### Contacts
 ---
@@ -22,7 +22,7 @@ to thoroughly study what has fascinated me since childhood, this is web developm
 ### Skills
 ---
 * HTML5 / CSS3
-* JavaScript ES6+
+* JavaScript ES6+ / RegEx
 * React 
 * Styled-components / SASS / CSS Modules
 * Git / GitHub
@@ -53,8 +53,8 @@ At the moment, I only have projects created in the learning process, `written no
 | Project | Link |
 | ------ | ------ |
 | SortCalc (rolled metal calculator) on React | [GitHub](https://github.com/Duxcoder/SortCalc-Project-) |
-| Snake (simple game on native JS) in process | [GitHub](https://github.com/Duxcoder/snake-simple) |
-| Food-delivery (project for learning ReactJs) in process | [GitHub](https://github.com/Duxcoder/Food-Delivery) |
+| Plants | [GitHub](https://rolling-scopes-school.github.io/duxcoder-JSFEPRESCHOOL2022Q4/plants/) |
+| Momentum | [GitHub](https://rolling-scopes-school.github.io/duxcoder-JSFEPRESCHOOL2022Q4/momentum/) |
 
 ### Education
 ___
@@ -68,11 +68,12 @@ ___
     * _Udemy (JavaScript + React)_
     * _YouTube IT-Kamasutra (ReactJS)_
     * _Hexlet (command line, git)_
+    * _Algorithms and Data Structures(Тимофей Хирьянов)_
 
 ### English Language
 ___
-**A2**, `but i use google translate`
+**A2**
 
 
 ___
-CV ERMAKOV EVGENIY FOR RS SCHOOL, 2022
+CV ERMAKOV EVGENIY FOR RS SCHOOL, 2023
